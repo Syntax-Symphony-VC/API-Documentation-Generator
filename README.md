@@ -1,2 +1,76 @@
-# API-Documentation-Generator
-A tool to auto-generate API documentation.
+- @aismail5
+#- @aismail5
+ - @aismail5
+A- @aismail5
+P- @aismail5
+I- @aismail5
+-- @aismail5
+D- @aismail5
+o- @aismail5
+c- @aismail5
+u- @aismail5
+m- @aismail5
+e- @aismail5
+n- @aismail5
+t- @aismail5
+a- @aismail5
+t- @aismail5
+i- @aismail5
+o- @aismail5
+n- @aismail5
+-- @aismail5
+G- @aismail5
+e- @aismail5
+n- @aismail5
+e- @aismail5
+r- @aismail5
+a- @aismail5
+t- @aismail5
+o- @aismail5
+r- @aismail5
+
+- @aismail5
+A- @aismail5
+ - @aismail5
+t- @aismail5
+o- @aismail5
+o- @aismail5
+l- @aismail5
+ - @aismail5
+t- @aismail5
+o- @aismail5
+ - @aismail5
+a- @aismail5
+u- @aismail5
+t- @aismail5
+o- @aismail5
+-- @aismail5
+g- @aismail5
+e- @aismail5
+n- @aismail5
+e- @aismail5
+r- @aismail5
+a- @aismail5
+t- @aismail5
+e- @aismail5
+ - @aismail5
+A- @aismail5
+P- @aismail5
+I- @aismail5
+ - @aismail5
+d- @aismail5
+o- @aismail5
+c- @aismail5
+u- @aismail5
+m- @aismail5
+e- @aismail5
+n- @aismail5
+t- @aismail5
+a- @aismail5
+t- @aismail5
+i- @aismail5
+o- @aismail5
+n- @aismail5
+.- @aismail5
+
+- @aismail5
